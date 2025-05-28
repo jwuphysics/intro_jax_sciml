@@ -4,8 +4,8 @@
 - This was originally developed for an invited tutorial at the 2025 Simulation-Based Inference for Galaxy Evolution conference in Bristol, UK. 
 - The first tutorial presented in Bristol involved inferring the parameters of a 2D Gaussian from noisy 2D images. 
 - As time permits, I'll flesh out that tutorial some more and add other simple examples (e.g., spectrophotometric fitting, dynamical systems, etc.). 
-- These tutorials are intended to be pedagogical and exploratory -- they are not necessarily research-grade but may be broadly useful. 
-- Part of the motivation is (for me!) to learn how to use state-of-the-art JAX-based packages for various tasks spanning Bayesian inference, machine learning, physical modeling, etc.
+- These tutorials are intended to be pedagogical and exploratory -- no guarantees about correctness, completeness and direct transferability to real research problems.
+- Think of this as a journal keeping track of and highlighting state-of-the-art JAX-based packages for Bayesian inference, ML, physical modeling, etc.
 - Comments, corrections and contributions welcome! Email Viraj Pandya at vgp2108@columbia.edu to be added as a repo collaborator
 
 
