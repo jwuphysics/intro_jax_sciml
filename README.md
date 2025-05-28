@@ -14,7 +14,7 @@ Early Bristol SBI Galaxy Evolution conference tutorial is available on Colab at:
 https://colab.research.google.com/drive/1zoXet-ez1EckrrmTG9YVXARJXvmR9fsX#scrollTo=7f48e649-1023-44a2-9536-3fd9aeb7e763
 
 
-# Installing JAX
+# Installing JAX and running locally
 Best to follow https://docs.jax.dev/en/latest/installation.html 
 
 In the near future I'll add instructions for installing w/ support for Macbook GPU and/or Nvidia GPU support on clusters
