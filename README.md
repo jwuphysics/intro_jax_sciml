@@ -1,3 +1,5 @@
+# Introductory JAX tutorials using simple, practical problems common in astrophysics
+
 - This repository contains tutorials introducing JAX using relatively simple, practical inference problems. 
 - This was originally developed for an invited tutorial at the 2025 Simulation-Based Inference for Galaxy Evolution conference in Bristol, UK. 
 - The first tutorial presented in Bristol involved inferring the parameters of a 2D Gaussian from noisy 2D images. 
